@@ -29,4 +29,6 @@ FETCH FIRST 10 ROWS ONLY; `
 👉 **Using Power BI to create a dashborad** 
 
 <img align="center" alt="Gif" width="350px" style="padding-right:150px;" src="https://user-images.githubusercontent.com/108797740/202766711-60f4c641-e9ac-4350-8b06-a4b17cfb9418.gif"/>
+👇 For more dashboard information in detail
 
+https://app.powerbi.com/links/BDpn537UKQ?ctid=40127cd4-45f3-49a3-b05d-315a43a9f033&pbi_source=linkShare
